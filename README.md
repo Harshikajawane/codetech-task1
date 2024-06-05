@@ -9,7 +9,7 @@ This is a simple To-Do List application implemented using HTML, CSS, and JavaScr
 - Add tasks to your to-do list.
 - Remove tasks from the list.
   
-  Using web technologies
+ # Using web technologies
   
  `main.html`: The main HTML file containing the structure and logic of the To-Do List application.
  `style.css`: The CSS file containing styles for the application.
