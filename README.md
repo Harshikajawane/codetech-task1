@@ -1,4 +1,10 @@
 # codetech-task1
+**Name :** Harshika jawane
+**Company :** CODETECH IT SOLUTIONS
+**ID :** CT08WD77
+**Domain :** Web Development
+**Duration :** MAY TO JUNE 2024
+**mentor :** SRAVANI GOUNI
 
 # To-Do List Application
 
@@ -11,6 +17,12 @@ This is a simple To-Do List application implemented using HTML, CSS, and JavaScr
   
  # Using web technologies
   
- `main.html`: The main HTML file containing the structure and logic of the To-Do List application.
- `style.css`: The CSS file containing styles for the application.
+ `main.html`: The main HTML file containing the structure and logic of the To-Do List application.<br>
+ `style.css`: The CSS file containing styles for the application.<br>
  `script.js`: The JavaScript file containing the functionality of the application.
+ 
+ #Result 
+![image](https://github.com/Harshikajawane/codetech-task1/assets/154118873/8f8bc7b1-9546-412d-8446-d9912fbf52ec)
+
+
+![Screenshot 2024-06-05 130821](https://github.com/Harshikajawane/codetech-task1/assets/154118873/04e511ef-10e7-4abd-bf5f-ce0f0173304c)
