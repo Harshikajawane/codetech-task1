@@ -1,10 +1,12 @@
 # codetech-task1
-**Name :** Harshika jawane
-**Company :** CODETECH IT SOLUTIONS
-**ID :** CT08WD77
-**Domain :** Web Development
-**Duration :** MAY TO JUNE 2024
-**mentor :** SRAVANI GOUNI
+
+**Name :** Harshika jawane <br>
+
+**Company :** CODETECH IT SOLUTIONS <br>
+**ID :** CT08WD77 <br>
+**Domain :** Web Development <br>
+**Duration :** MAY TO JUNE 2024 <br>
+**mentor :** SRAVANI GOUNI <br>
 
 # To-Do List Application
 
