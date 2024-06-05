@@ -6,7 +6,7 @@
 **ID :** CT08WD77 <br>
 **Domain :** Web Development <br>
 **Duration :** MAY TO JUNE 2024 <br>
-**mentor :** SRAVANI GOUNI <br>
+**Mentor :** SRAVANI GOUNI <br>
 
 # To-Do List Application
 
@@ -24,7 +24,7 @@ This is a simple To-Do List application implemented using HTML, CSS, and JavaScr
  `script.js`: The JavaScript file containing the functionality of the application.
  
  #Result 
-![image](https://github.com/Harshikajawane/codetech-task1/assets/154118873/8f8bc7b1-9546-412d-8446-d9912fbf52ec)
+
 
 
 ![Screenshot 2024-06-05 130821](https://github.com/Harshikajawane/codetech-task1/assets/154118873/04e511ef-10e7-4abd-bf5f-ce0f0173304c)
